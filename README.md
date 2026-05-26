@@ -4,7 +4,8 @@
 -->
 <p align="left">
   <img src="profile/stats.svg" alt="Stats" /><br>
-  <img src="profile/top-langs.svg" alt="Top Langs" /><br>
+  <!-- <img src="profile/top-langs.svg" alt="Top Langs" /><br>-->
+  <img src="profile/waka-time.svg alt="Waka Time" /><br>
 </p>
 
 <img width="493" alt="ready_for_multiplatform" src="https://github.com/iostyle/iostyle/assets/22219146/55c2b4cd-4ff3-4e6a-93af-82216b97f028">
