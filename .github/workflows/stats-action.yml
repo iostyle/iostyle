@@ -42,6 +42,14 @@ jobs:
       #     path: profile/pin-stats-organization-github-readme-stats.svg
       #     token: ${{ env.GH_TOKEN }}
 
+      - name: Generate waka time card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&v=2&langs_count=8
+          path: profile/waka-time.svg
+          token: ${{ env.GH_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
