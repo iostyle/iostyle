@@ -3,9 +3,9 @@
 [![iostyle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iostyle&layout=compact&v=2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <p align="left">
-  <img src="profile/stats.svg" alt="Stats" /><br>
+  <img src="./profile/stats.svg" alt="Stats" /><br>
   <!-- <img src="profile/top-langs.svg" alt="Top Langs" /><br>-->
-  <img src="profile/waka-time.svg alt="Waka Time" /><br>
+  <img src="./profile/waka-time.svg" alt="Waka Time" /><br>
 </p>
 
 <img width="493" alt="ready_for_multiplatform" src="https://github.com/iostyle/iostyle/assets/22219146/55c2b4cd-4ff3-4e6a-93af-82216b97f028">
